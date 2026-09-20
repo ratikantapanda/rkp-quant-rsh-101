@@ -1,1 +1,12 @@
-a
+# Python envs
+.venv/
+venv/
+
+# Local secrets
+.env
+.env.*
+
+# Project artifacts
+__pycache__/
+*.pyc
+.pytest_cache/
